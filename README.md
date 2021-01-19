@@ -1,2 +1,2 @@
 # Databases
-SQL 
+SQL queries.
